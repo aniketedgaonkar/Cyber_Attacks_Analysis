@@ -1,6 +1,6 @@
 # Cyber Attacks Analysis (Interactive dashboard creation using Power Bi)
 ## Project Objective
-Cyber Security agency wants to create analysis on Cyber Attacks from 2020-2023. So that, they understand attack trends from different states. Also analyze traffic types, action taken, network segments, etc. to find some patterns and work on it to reduce the cyber attacks.
+Cyber Security agency wants to analyze on Cyber Attacks from 2020-2023. So that, they understand attack trends from different states. Also analyze traffic types, action taken, network segments, etc. to find some patterns and work on it to reduce the cyber attacks.
 ## Dataset used
 <a href="https://github.com/aniketedgaonkar/Cyber_Attacks_Analysis/blob/main/cybersecurity_attacks.csv">Dataset</a>
 ## Questions (KPIs)
