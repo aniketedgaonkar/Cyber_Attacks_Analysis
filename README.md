@@ -14,7 +14,7 @@ o	Analyze Anomaly score of attacks. <br>
 ![CyberAttack Dashboard](https://github.com/user-attachments/assets/be7e420c-169d-4384-94d6-3b89648399f5)
 ## Technologies Used:-
 Power BI: For data visualization and dashboard creation.<br>
-Data Sources: Utilized sales data from Blinkit Excel file to derive meaningful insights.
+Data Sources: Utilized sales data from Excel file to derive meaningful insights.
 ## Project Insights 
 1. Total Cyber Attacks are around 40K from 2020 to 2023.
 2. Manipur, Uttar Pradesh, Gujrat and Maharashra are top states of cyber atttacks.
